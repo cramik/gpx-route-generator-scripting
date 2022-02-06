@@ -25,8 +25,17 @@ Saves the following data to a comma-separated value file:
 * Execution Time
 * Total Stops
 
+
+## Usage:
+
+Simply add to your gpx-route-generator-console folder, open GPX.bat, and select your GPX file
+
+
 #### To be added:
 
 * Add stops count automatically to finished files
 
 #### 
+
+
+
