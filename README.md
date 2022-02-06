@@ -9,13 +9,13 @@
 
 ## Features:
 
-#### Simplification:
+#### Simplification
 
 * Reads configuration for algorithm and count from a file
 * Allows you to select file from a file selector instead of typing in file name
 * Automatically moves and sorts finished files and sources to separated folders
 
-#### Data Collection:
+#### Data Collection
 
 Saves the following data to a comma-separated value file:
 
