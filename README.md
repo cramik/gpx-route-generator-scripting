@@ -7,6 +7,8 @@
 * Windows System (uses batch scripting)
 * Python (so I can leave the timing script uncompiled)
 
+## Features:
+
 #### Simplification:
 
 * Reads configuration for algorithm and count from a file
