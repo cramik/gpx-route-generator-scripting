@@ -35,7 +35,7 @@ Saves the following data to a comma-separated value file:
 Simply add to your gpx-route-generator-console folder, open GPX.bat, and select your GPX file
 
 
-
-
+# References
+Batch/Powershell File Browser - https://stackoverflow.com/questions/15885132/file-folder-chooser-dialog-from-a-windows-batch-script/15885133#15885133
 
 
